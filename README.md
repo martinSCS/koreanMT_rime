@@ -8,7 +8,7 @@
 
 ## 特性
 
-- 采用最常见的[두벌식键盘](https://ko.wikipedia.org/wiki/%EB%91%90%EB%B2%8C%EC%8B%9D_%EC%9E%90%ED%8C%90)
+- 采用最常见的[두벌식键盘布局](https://ko.wikipedia.org/wiki/%EB%91%90%EB%B2%8C%EC%8B%9D_%EC%9E%90%ED%8C%90)
 
 - 支持Unicode已收录的所有谚文音节组合
 
@@ -38,6 +38,7 @@
     <img src="src/keyboard_layout.svg" alt="图1. 键盘布局">
     <figcaption style="text-align: center; color: rgba(0, 0, 0, 60%); font-size: 0.85em">图1. 键盘布局</figcaption>
 </figure>
+
 ## 贡献
 
 可通过Pull Request来进行代码贡献和Issue来提出问题。
